@@ -1,0 +1,26 @@
+[
+	{
+	"csv_relative_url": "nationalhospital/processed_data/imaging_processed/",
+	"file_name":"*.csv"
+	},
+	{
+	"csv_relative_url": "nationalhospital/processed_data/lab_processed/",
+	"file_name":"*.csv"
+	},
+	{
+	"csv_relative_url": "nationalhospital/processed_data/med_records_processed/",
+	"file_name":"*.csv"
+	},
+	{
+	"csv_relative_url": "nationalhospital/processed_data/participants_processed/",
+	"file_name":"*.csv"
+	},
+	{
+	"csv_relative_url": "nationalhospital/processed_data/patients_data_processed/",
+	"file_name":"*.csv"
+	},
+	{
+	"csv_relative_url": "nationalhospital/processed_data/trials_processed/",
+	"file_name":"*.csv"
+	}
+]
